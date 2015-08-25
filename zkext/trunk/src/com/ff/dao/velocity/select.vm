@@ -1,0 +1,4 @@
+select * 
+from $request.entityDescriptor.table
+$dao.writeWhereClause($request)
+

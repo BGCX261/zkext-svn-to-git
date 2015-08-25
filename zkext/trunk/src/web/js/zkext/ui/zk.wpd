@@ -1,0 +1,14 @@
+<package name="zkext.ui" language="xul/html" depends="zul">
+	 
+	<script src="../lib/ext/extjs/ext-all-debug.js"/>
+	 
+	<script>
+		ESCAPE_FIELD = "__xxxesc__";
+		MODEL_ID = "__model_id";
+		ROW_ID = "__row_id";
+	</script> 
+	 
+	<widget name="AbstractComponent"/>
+	<widget name="Component"/>
+		 
+</package>

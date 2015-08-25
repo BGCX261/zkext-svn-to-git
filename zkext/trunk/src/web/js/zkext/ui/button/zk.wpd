@@ -1,0 +1,11 @@
+<package name="zkext.ui.button" language="xul/html" depends="zkext.ui">
+
+	<widget name="Button"/>
+	<widget name="SearchButton"/>
+	<widget name="CreateButton"/>
+	<widget name="DeleteButton"/>
+	<widget name="SaveButton"/>
+	<widget name="ResetButton"/>
+	<widget name="EditButton"/>
+	 
+</package>
